@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5f85ddd469ea89018de24b2d"},"cld":1.0,"cur_acc_bal":1500.0,"acc_bal":[100.0,1400.0,1600.0,1500.0],"acc_type":"Z"}
+{"_id":{"$oid":"5f85ddf869ea89018de24b2e"},"cld":2.0,"cur_acc_bal":500.0,"acc_bal":[200.0,1430.0,15490.0,1500.0],"acc_type":"Y"}
